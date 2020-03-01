@@ -1,4 +1,2 @@
-aeroplane
-bicycle
-bird
-boat
+Benign
+Attacker
