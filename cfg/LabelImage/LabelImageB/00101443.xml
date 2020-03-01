@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Scene 1</folder>
+	<filename>00101443.png</filename>
+	<path>C:\Users\Jack\Documents\Data Labeling\RawPictures\data-Umesh-20200113\examples\Scene 1\00101443.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>311</ymin>
+			<xmax>441</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>303</ymin>
+			<xmax>381</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>
